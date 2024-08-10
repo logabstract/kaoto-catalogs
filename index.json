@@ -1,9 +1,9 @@
 {
   "name" : "quarkus Catalog",
   "definitions" : [ {
-    "name" : "Camel Quarkus 3.8.0",
-    "version" : "3.8.0",
+    "name" : "Camel Quarkus 3.7.0",
+    "version" : "3.7.0",
     "runtime" : "Quarkus",
-    "fileName" : "camel-quarkus/3.8.0/index-5c93f722fd4a39d21f64de579fe7ccc2.json"
+    "fileName" : "camel-quarkus/3.7.0/index-3ff3236978a1077194a0ced41387ac29.json"
   } ]
 }
